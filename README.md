@@ -100,12 +100,12 @@ flowchart TD
 Interfaz moderna basada en **Material 3** con una experiencia de usuario optimizada para la toma de decisiones financieras.
 
 ### 📸 Screenshots
-> [!NOTE]
-> Agrega aquí las capturas de pantalla de la aplicación una vez generadas.
+> [!TIP]
+> Vista detallada de la interfaz de usuario optimizada para la web.
 
-| Dashboard Principal | Comparativa de Inversiones | Detalle Mensual |
-| :---: | :---: | :---: |
-| ![Dashboard](https://via.placeholder.com/300x600?text=Dashboard) | ![Comparativa](https://via.placeholder.com/300x600?text=Comparison) | ![Detalle](https://via.placeholder.com/300x600?text=Detail) |
+| Dashboard Principal | Comparativa de Inversiones | Detalle Mensual (CDT/FONDO) | Detalle Mensual (ACCIONES) |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/1.png" width="300"> | <img src="screenshots/2.png" width="300"> | <img src="screenshots/3.png" width="300"> | <img src="screenshots/4.png" width="300"> |
 
 ---
 
